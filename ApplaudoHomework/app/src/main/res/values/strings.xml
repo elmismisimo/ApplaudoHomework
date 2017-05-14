@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Applaudo Homework</string>
+
+    <string name="offline">There is no internet connection</string>
+    <string name="try_again">Try Again</string>
+    <string name="sharing_title">Share Team With</string>
+    <string name="no_share_app">This device does not have an app that can handle the team sharing</string>
+    <string name="call">Call Team Phone Number</string>
+    <string name="no_call_app">This device does not have an app that can handle call</string>
+</resources>

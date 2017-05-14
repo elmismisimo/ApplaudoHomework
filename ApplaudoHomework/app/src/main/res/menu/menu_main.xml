@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".views.ActivityInicio" >
+
+    <item
+        android:id="@+id/menu_call"
+        android:orderInCategory="100"
+        android:icon="@mipmap/call"
+        app:showAsAction="always"
+        android:title=""
+        />
+    <item
+        android:id="@+id/menu_share"
+        android:orderInCategory="100"
+        android:icon="@mipmap/share"
+        app:showAsAction="always"
+        android:title=""
+        />
+
+</menu>

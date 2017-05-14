@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sander\Documents\Aplicaciones\AndroidApps\ApplaudoHomework\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Sander\Documents\Aplicaciones\AndroidApps\ApplaudoHomework\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c6b3787b089a825979fcee87851d6ad0a18eb298\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sander\Documents\Aplicaciones\AndroidApps\ApplaudoHomework\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dac4563927b20e9b77f84ed0addf26b6025a8b1c">
+        <dex dex="C:\Users\Sander\Documents\Aplicaciones\AndroidApps\ApplaudoHomework\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fe25400583398a6de917d971a1ed56d9c936e62b\classes.dex" />
+    </item>
+
+</items>
